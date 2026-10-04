@@ -1,5 +1,5 @@
 # NeuralNetworks
-This is a repo where i will commit my code for Neural Networks, a class that i am attending in 2024
+Code for the Neural Networks course (Aristotle University of Thessaloniki, 2024).
 
 I am using CIFAR-10 dataset
 I have downloaded the files from https://www.cs.toronto.edu/~kriz/cifar.html
