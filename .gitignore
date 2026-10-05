@@ -1,0 +1,19 @@
+# CIFAR-10 dataset (download separately, see README)
+data_batch_*
+test_batch
+batches.meta
+readme.html
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
